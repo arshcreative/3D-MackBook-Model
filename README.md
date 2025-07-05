@@ -22,7 +22,7 @@ This project showcases a fully modeled, textured, lit, and animated **3D MacBook
 - Create a presentable animation for portfolio use
 
 ## 📽️ Preview
-[▶️ Watch the final animation here](#)
+[▶️ Watch the final animation here](https://www.linkedin.com/posts/mohd-arsh-434081302_3dmodeling-texturing-lighting-activity-7235831232364691457-s5z-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECa9u4BzxaTulHX7hxG76eE530tgcHjeZg)
 
 ## 📁 Files
 - `MacBookPro.blend` – Blender project file
